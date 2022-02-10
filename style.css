@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(150, 130, 150);
+}
+#main {
+    color: blue;
+}
+.nolink {
+    text-decoration: underline;
+    text-decoration-color: blue;
+}
+#list {
+    text-align: center;
+    list-style: none;
+}
